@@ -1,3 +1,102 @@
+h1 {
+    color: #444;
+    font-weight: 400;
+    font-size: 42px;
+}
+
+
+span#index-quicklinks {
+  display: -webkit-flex;
+  display: flex;
+  max-width: 700px;
+  margin-bottom: 0px;
+  margin-top:0px;
+}
+
+span#index-quicklinks a {
+flex: 1;
+background-color: #025b96;
+color: #ffffff;
+text-align: center;
+margin: 0px;
+margin-left: 5px;
+margin-right: 5px;
+padding-top: 1em;
+padding-bottom: 1em;
+vertical-align: middle;
+text-decoration: none;
+}
+
+span#index-quicklinks a:hover {
+  background-color: #002F5F 
+}
+
+#overview-whatsnew {
+  display: flex;
+  width: 100%;
+}
+.admonition.overview, .admonition.whatsnew {
+  display: inline-block;
+  width: 100%;
+  color: #000000;
+  vertical-align: top;
+  align: center;
+  margin-bottom: 0px;
+  margin-top: 1em;
+}
+
+.admonition.overview {
+  background-color: #E8F6FF;
+  /*margin-right: -2.5%;
+  margin-left: -2.5%;*/
+}
+.admonition.overview p.admonition-title{
+  color: #2980B9;
+}
+
+.admonition.whatsnew {
+  background-color: #FBF6E3;
+  margin-left: 0.5pt;
+}
+
+.admonition.whatsnew p.admonition-title {
+  color: #2980B9;
+}
+
+
+.admonition {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    text-align: left;
+}
+
+.admonition.note { /* csslint allow: adjoining-classes */
+    color: #3a87ad;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+.admonition.warning { /* csslint allow: adjoining-classes */
+    color: #c09853;
+    background-color: #fcf8e3;
+    border-color: #fbeed5;
+}
+
+.admonition.danger { /* csslint allow: adjoining-classes */
+    color: #b94a48;
+    background-color: #f2dede;
+    border-color: #eed3d7;
+}
+
+.admonition-title {
+    color: #2980B9;
+    font-weight: bold;
+    text-align: left;
+}
+
+
 footer.wm-page-content {
   max-width: 700px;
   float: none;
