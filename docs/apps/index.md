@@ -1,6 +1,7 @@
 <h1> Applications</h1>
 
 ## Biosciences
+
 * [BAMtools](bamtools.md) Tools for working with BAM formatted files
 * [Bioconda](bioconda.md) Package manger for installing bioinformatics software
 * [BioPerl](bioperl.md) Perl environment with bioperl extension
@@ -28,21 +29,26 @@
 * [STAR](star.md) Short read aligner
 * [Trinity](trinity.md) Traskriptome assembly tool
 * [Velvet](velvet.md) Genome assembler
+* [VMD](vmd.md) Molecular visualization program 
 * [wtdbg2](wtdbg2.md) Fast assembler for long-read data
 
 ## Chemistry
 
+* [Amber](amber.md) Molecular dynamics suite
+* [AMS](ams.md) Modelling suite providing engines like ADF, BAND, DFTB and MOPAC
 * [CP2k](cp2k.md) DFT, quantum chemistry, QM/MM, AIMD etc. in particular for periodic systems
 * [Gaussian](gaussian.md) Versatile computational chemistry package
 * [GPAW](gpaw.md) Versatile DFT package
 * [Gromacs](gromacs.md) Fast and versatile classical molecular dynamics
 * [Maestro](maestro.md) Versatile drug discovery and materials modeling suite
+* [MOLDEN](molden.md) Processing program for molecular and electronic structure calculations
 * [MOLPRO](molpro.md) Package for accurate ab initio quantum chemistry calculations
 * [NAMD](namd.md) Highly scalable classical molecular dynamics
 * [Open Babel](openbabel.md) Program to interconvert file formats currently used in molecular modeling
 * [ORCA](orca.md) General purpose quantum chemistry package
 * [Turbomole](turbomole.md) Efficient program package for electronic structure calculations
 * [VASP](vasp.md) Ab initio DFT electronic structures
+* [VMD](vmd.md) Molecular visualization program 
 
 ## Computational Engineering
 
@@ -63,24 +69,34 @@
 * [MXNet](mxnet.md) Deep learning library for Python
 
 ## Geosciences
+
 * [GDAL](gdal.md) Translator library for geospatial data formats
 * [Geoconda](geoconda.md) Spatial analysis libraries for Python, QGIS, GDAL and LasTools
 * [LAStools](lastools.md) Toolbox for LiDAR datasets
-* [Lidarconda](lidarconda.md) Collection of LiDAR data related Python packages
 * [Mapnik](mapnik.md) Open source toolkit for rendering maps
+* [PDAL](pdal.md) open source command line application for point cloud translations and processing
 * [QGIS](qgis.md) GIS application for viewing, editing, and analysing geospatial data
+* [SAGA GIS](saga-gis.md) GIS application for spatial data editing and analysis
 * [Sen2Cor](sen2cor.md) Stand-alone processor for the Sentinel-2 satellite
 * [SNAP](snap.md) Remote sensing toolbox for satellites
 * [Solaris](solaris.md) Open source deep learning pipeline for geospatial imagery
 
 ## Mathematics and Statistics
+
+* [R](r-env.md) Open-source language and environment for statistical analysis and graphics
+
+* [RStudio](rstudio.md) Integrated development environment for R
+
 * [SageMath](sagemath.md) Free open-source mathematics software system
 
 * [Julia](julia.md)  High-level, high-performance dynamic programming language for numerical computing
+
+* [Octave](octave.md) High-level interpreted language for numerical computations.
 
 ## Physics
 
 * [VASP](vasp.md) Ab initio DFT electronic structures
 
 ## Miscellaneous
+
 * [NoMachine](nomachine.md) Remote Desktop enabling fast graphics without X-emulators

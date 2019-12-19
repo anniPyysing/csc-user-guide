@@ -3,7 +3,14 @@
 ## General
 * [X11 remote graphics does not work](x11-graphics.md)
 * [How to get access to Puhti](how-to-get-puhti-access.md)
+* [I cannot login to Puhti from NoMachine](cannot-login-from-nomachine.md)
 * [How to cite CSC in a paper?](how-to-cite-csc.md)
+* [Can I still use CSC services if I'm moving abroad?](can-i-use-csc-services-abroad.md)
+
+## Batch jobs
+* [Why is my job queuing so long?](why-is-my-job-queueing-so-long.md)
+* [How to estimate how much memory my job needs?](how-much-memory-my-job-needs.md)
+* [Disk quota exceeded](disk-quota-exceeded.md)
 
 ## Accounts
 
@@ -26,3 +33,4 @@
 * [Is Pouta backed up?](is-pouta-backed-up.md)
 * [How can I store data on Pouta?](how-to-store-data-in-pouta.md)
 * [What does it cost to use Pouta?](what-does-it-cost-to-use-pouta.md)
+* [How to rescue a Pouta instance](pouta-openstack-rescue-mode.md)
