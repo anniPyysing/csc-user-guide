@@ -114,7 +114,7 @@ edit_uri: blob/master/docs/
 
 theme:
   name: material
-  custom_dir: material
+  custom_dir: mkdocs-csc
 extra:
   logo: img/CSC_LOGO_nega_pad.png
   article_nav: false
